@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">QuietForge governed company operating system</title>
+  <desc id="desc">A four-step delivery path from scan to scope, build, approval and handover around a company operating system.</desc>
+  <rect width="1200" height="360" fill="#07111a"/>
+  <path d="M0 72H1200M0 288H1200M80 0V360M1120 0V360" stroke="#183243" stroke-width="1"/>
+  <text x="72" y="58" fill="#8aa6b8" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">QUIETFORGE / GOVERNED SYSTEMS</text>
+  <text x="72" y="118" fill="#f2f7fa" font-family="Arial, sans-serif" font-size="32" font-weight="700">Company operating systems</text>
+  <text x="72" y="148" fill="#9db4c2" font-family="Arial, sans-serif" font-size="16">Built for small businesses. Reviewed by a human before anything ships.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="72" y="194" width="180" height="64" rx="4" fill="#102532" stroke="#3f7186"/>
+    <text x="92" y="220" fill="#f2f7fa" font-size="17" font-weight="700">01 / Scan</text>
+    <text x="92" y="242" fill="#9db4c2" font-size="13">Find the friction</text>
+    <rect x="282" y="194" width="180" height="64" rx="4" fill="#102532" stroke="#3f7186"/>
+    <text x="302" y="220" fill="#f2f7fa" font-size="17" font-weight="700">02 / Build</text>
+    <text x="302" y="242" fill="#9db4c2" font-size="13">Shape the workflow</text>
+    <rect x="492" y="178" width="270" height="96" rx="4" fill="#173528" stroke="#74c69d" stroke-width="2"/>
+    <text x="520" y="216" fill="#d8ffe7" font-size="19" font-weight="700">Company OS</text>
+    <text x="520" y="240" fill="#a9d8ba" font-size="13">knowledge / action / reporting</text>
+    <text x="520" y="260" fill="#74c69d" font-size="12" letter-spacing="1">GOVERNED BY DESIGN</text>
+    <rect x="792" y="194" width="180" height="64" rx="4" fill="#102532" stroke="#e2a65a"/>
+    <text x="812" y="220" fill="#f2f7fa" font-size="17" font-weight="700">03 / Approve</text>
+    <text x="812" y="242" fill="#d9bd8b" font-size="13">Owner decides</text>
+    <rect x="992" y="194" width="136" height="64" rx="4" fill="#102532" stroke="#3f7186"/>
+    <text x="1012" y="220" fill="#f2f7fa" font-size="17" font-weight="700">04 / Handover</text>
+    <text x="1012" y="242" fill="#9db4c2" font-size="13">You own it</text>
+  </g>
+  <path d="M252 226H282M462 226H492M762 226H792M972 226H992" stroke="#74c69d" stroke-width="2"/>
+  <circle cx="267" cy="226" r="4" fill="#74c69d"/><circle cx="477" cy="226" r="4" fill="#74c69d"/><circle cx="777" cy="226" r="4" fill="#e2a65a"/><circle cx="982" cy="226" r="4" fill="#74c69d"/>
+  <text x="72" y="322" fill="#6d8999" font-family="Arial, sans-serif" font-size="12" letter-spacing="1">QUIETFORGE / SCAN - SCOPE - BUILD - YOU APPROVE - HANDOVER</text>
+</svg>

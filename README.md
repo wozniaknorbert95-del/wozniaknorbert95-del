@@ -12,6 +12,8 @@ QuietForge is the commercial implementation studio. The working path is:
 AI helps me build quickly. Engineering review, security controls and human approval
 decide what ships.
 
+![QuietForge governed company operating system](./assets/quietforge-system-map.svg)
+
 ## Start here
 
 - [Visit QuietForge](https://quietforge.flexgrafik.nl/)
