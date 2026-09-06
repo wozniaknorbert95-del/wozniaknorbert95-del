@@ -18,15 +18,18 @@ decide what ships.
 
 - [Visit QuietForge](https://quietforge.flexgrafik.nl/)
 - [Explore the Builder's Lab](https://quietforge.flexgrafik.nl/lab/)
-- [Read the proof boundary](https://quietforge.flexgrafik.nl/proof/)
 - [Book an Automation Scan](https://quietforge.flexgrafik.nl/book-a-scan/)
+
+## Current focus
+
+**2026-09-06:** turning the Builder's Lab into a verified technical evidence layer.
+Public proof follows sanitization, reproducible setup and ownership review.
 
 ## What I build
 
-- Systems that qualify leads and structure the next action.
+- Quote, order and inbox workflows that make the next action clear.
 - Company knowledge and operating maps that reduce information drift.
-- Supervised workflows for quotes, orders, inboxes and reporting.
-- Delivery with review gates, documentation and repository handover.
+- Handover-ready systems with human approval and documented controls.
 
 ## How to read this GitHub
 
@@ -45,6 +48,9 @@ security posture and last verification date before it is presented as public pro
 | Public proof repositories | In review | Repositories are pinned only after sanitization, README, security and IP review. |
 
 ## Proof boundaries
+
+Read the [live proof boundary](https://quietforge.flexgrafik.nl/proof/) before treating
+any repository as evidence.
 
 - **PROVEN**: reproducible technical evidence or a measured result with a traceable source.
 - **DEMO**: deliberate fixture, walkthrough or controlled demonstration.
