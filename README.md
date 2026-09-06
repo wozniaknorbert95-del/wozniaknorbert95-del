@@ -45,6 +45,7 @@ security posture and last verification date before it is presented as public pro
 |---|---|---|
 | [dsaas-quietforge](https://github.com/wozniaknorbert95-del/dsaas-quietforge) | Public tenant reference | Shows a live QuietForge site and owner-operated build work; it is not the reusable platform core or a free product. |
 | [Builder's Lab](https://quietforge.flexgrafik.nl/lab/) | Primary technical proof | Explains the build laboratory, sanitized evidence and tenant/platform boundaries. |
+| [quietforge-proof](https://github.com/wozniaknorbert95-del/quietforge-proof) | Public DEMO proof | Reproducible synthetic quote-to-handover workflow with a human approval gate; no client or production claim. |
 | Public proof repositories | In review | Repositories are pinned only after sanitization, README, security and IP review. |
 
 ## Proof boundaries
