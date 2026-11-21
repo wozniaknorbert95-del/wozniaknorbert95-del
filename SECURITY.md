@@ -8,7 +8,7 @@ issues, pull requests or discussions.
 
 ## Reporting
 
-Report a suspected vulnerability privately to `quietforge@flexgrafik.nl`. Include the
+Report a suspected vulnerability privately to `hello@quietforge.nl`. Include the
 affected file or URL, reproduction steps and impact. Do not publish sensitive details
 before a fix or mitigation is agreed.
 
