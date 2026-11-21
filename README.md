@@ -16,9 +16,9 @@ decide what ships.
 
 ## Start here
 
-- [Visit QuietForge](https://quietforge.flexgrafik.nl/)
-- [Explore the Builder's Lab](https://quietforge.flexgrafik.nl/lab/)
-- [Book an Automation Scan](https://quietforge.flexgrafik.nl/book-a-scan/)
+- [Visit QuietForge](https://quietforge.nl/)
+- [Explore the Builder's Lab](https://quietforge.nl/lab/)
+- [Book an Automation Scan](https://quietforge.nl/book-a-scan/)
 
 ## Current focus
 
@@ -44,13 +44,13 @@ security posture and last verification date before it is presented as public pro
 | Repository | Role | Evidence boundary |
 |---|---|---|
 | [dsaas-quietforge](https://github.com/wozniaknorbert95-del/dsaas-quietforge) | Public tenant reference | Shows a live QuietForge site and owner-operated build work; it is not the reusable platform core or a free product. |
-| [Builder's Lab](https://quietforge.flexgrafik.nl/lab/) | Primary technical proof | Explains the build laboratory, sanitized evidence and tenant/platform boundaries. |
+| [Builder's Lab](https://quietforge.nl/lab/) | Primary technical proof | Explains the build laboratory, sanitized evidence and tenant/platform boundaries. |
 | [quietforge-proof](https://github.com/wozniaknorbert95-del/quietforge-proof) | Public DEMO proof | Reproducible synthetic quote-to-handover workflow with a human approval gate; no client or production claim. |
 | Public proof repositories | In review | Repositories are pinned only after sanitization, README, security and IP review. |
 
 ## Proof boundaries
 
-Read the [live proof boundary](https://quietforge.flexgrafik.nl/proof/) before treating
+Read the [live proof boundary](https://quietforge.nl/proof/) before treating
 any repository as evidence.
 
 - **PROVEN**: reproducible technical evidence or a measured result with a traceable source.
@@ -73,6 +73,6 @@ without the corresponding evidence.
 
 Norbert Wozniak | QuietForge
 
-Last inventory review: 2026-09-06
+Last inventory review: 2026-11-21
 
 Next review: after each meaningful public proof release, and monthly during the first quarter.
